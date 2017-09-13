@@ -8,4 +8,5 @@ target 'AlamofireSwiftyJson' do
 
   # Pods for AlamofireSwiftyJson
   pod 'Alamofire', '~> 4.5'
+  pod 'SwiftyJSON'
 end
